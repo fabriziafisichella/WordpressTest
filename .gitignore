@@ -1,0 +1,9 @@
+wp-admin/
+wp-includes/
+wp-config.php
+wp-content/uploads/
+*.log
+*.bak
+.idea/
+.vscode/
+.DS_Store
